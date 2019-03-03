@@ -10,6 +10,6 @@ Une liste de ressources awesome pour un numérique responsable.
 
 ## Pour les développeurs
 
-- [Eco-conception web : les 115 bonnes pratiques, le livre](https://ecoconceptionweb.com/) - Un livre destiné aux concepteurs et développeurs de sites web
-- [Eco-conception web : les 115 bonnes pratiques, la checklist](https://collectif.greenit.fr/ecoconception-web/) - La checklist des 115 bonnes pratiques d'éco-conception web
-- [Webperf](https://checklists.opquast.com/webperf/) - 41 critères pour afficher vos sites encore plus rapidement
+- [Eco-conception web : les 115 bonnes pratiques, le livre](https://ecoconceptionweb.com/) - Un livre destiné aux concepteurs et développeurs de sites web.
+- [Eco-conception web : les 115 bonnes pratiques, la checklist](https://collectif.greenit.fr/ecoconception-web/) - La checklist des 115 bonnes pratiques d'éco-conception web.
+- [Webperf](https://checklists.opquast.com/webperf/) - 41 critères pour afficher vos sites encore plus rapidement.

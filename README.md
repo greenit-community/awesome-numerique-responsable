@@ -35,3 +35,4 @@ Certaines ressources sont orientées amélioration des performances et vont dans
 - [Etude WeGreenIT : Quelle démarche Green IT pour les grandes entreprises françaises](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf) - PDF des résultats 2018 de l'étude WeGreenIT.
 - [Lean ICT – Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)
 - [Publication du rapport intermédiaire Lean ICT : Pour une Sobriété Numérique](https://theshiftproject.org/article/lean-ict-pour-une-sobriete-numerique-intermediaire/)
+- [Ecoinfo - Pour une informatique éco-responsable](https://ecoinfo.cnrs.fr/)

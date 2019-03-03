@@ -1,6 +1,6 @@
-# Awesome Numérique Responsable [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Numérique Responsable 🌱 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Une liste de ressources awesome pour un numérique responsable.
+Une liste de ressources awesome pour un numérique responsable 🌱
 
 ## Pour les usagers du numérique
 

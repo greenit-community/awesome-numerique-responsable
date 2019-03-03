@@ -36,3 +36,4 @@ Certaines ressources sont orientées amélioration des performances et vont dans
 - [Lean ICT – Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)
 - [Publication du rapport intermédiaire Lean ICT : Pour une Sobriété Numérique](https://theshiftproject.org/article/lean-ict-pour-une-sobriete-numerique-intermediaire/)
 - [Ecoinfo - Pour une informatique éco-responsable](https://ecoinfo.cnrs.fr/)
+- [La face cachée du numérique](https://www.ademe.fr/face-cachee-numerique) - Guide pratique proposé par l'ADEME.

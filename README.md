@@ -17,9 +17,11 @@ Certaines ressources sont orientées amélioration des performances et vont dans
 - [Eco-conception web : les 115 bonnes pratiques, le livre](https://ecoconceptionweb.com/) - Un livre destiné aux concepteurs et développeurs de sites web.
 - [Eco-conception web : les 115 bonnes pratiques, la checklist](https://collectif.greenit.fr/ecoconception-web/) - La checklist des 115 bonnes pratiques d'éco-conception web.
 - [Webperf](https://checklists.opquast.com/webperf/) - 41 critères pour afficher vos sites encore plus rapidement.
+- [Dossier : les bases de l’écoconception logicielle](https://www.greenit.fr/2014/03/31/dossier-les-bases-de-l-ecoconception-logicielle-eco-conception-logiciel/)
 
 ### Mesurer
 
+- [Ecoindex flashe les sites web éco-conçus](https://www.greenit.fr/2016/11/07/ecoindex-flashe-sites-web-eco-concus/)
 - [Ecoindex](http://www.ecoindex.fr/) - Auditez votre site Internet.
 - [Ecometer](http://ecometer.org) - Analyse your website's ecodesign maturity.
 - [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.

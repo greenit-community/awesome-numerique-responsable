@@ -13,6 +13,7 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 Certaines ressources sont orientées amélioration des performances et vont dans le sens de la réduction de l'empreinte écologique d'un site web.
 
 - [Vers des logiciels et des sites plus écologiques et éthiques ?](https://reset.fing.org/vers-des-logiciels-et-des-sites-plus-ecologiques-et-ethiques.html)
+- [Manifeste écologique des professionnels de l’informatique](https://www.climanifeste.net/)
 
 ### Eco-concevoir
 

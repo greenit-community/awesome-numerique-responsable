@@ -39,3 +39,7 @@ Certaines ressources sont orientées amélioration des performances et vont dans
 - [Publication du rapport intermédiaire Lean ICT : Pour une Sobriété Numérique](https://theshiftproject.org/article/lean-ict-pour-une-sobriete-numerique-intermediaire/)
 - [Ecoinfo - Pour une informatique éco-responsable](https://ecoinfo.cnrs.fr/)
 - [La face cachée du numérique](https://www.ademe.fr/face-cachee-numerique) - Guide pratique proposé par l'ADEME.
+
+## Articles de presse
+
+- [L'écoconception des services numériques comme filière d'excellence](https://business.lesechos.fr/directions-numeriques/digital/transformation-digitale/0600977911837-l-ecoconception-des-services-numeriques-comme-filiere-d-excellence-328383.php)

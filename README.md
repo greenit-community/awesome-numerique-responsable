@@ -33,6 +33,7 @@ Certaines ressources sont orientées amélioration des performances et vont dans
 
 ## Pour approfondir
 
+- [L'agenda pour un futur numérique et écologique](http://fing.org/IMG/pdf/Agenda-pour-un-futur-numerique-et-ecologique_2019_VF.pdf) - PDF qui  s’appuie  sur  l’ensemble des travaux du programme Tran-sitions engagé depuis 2015.
 - [L'impact environnemental du numérique | France Stratégie](https://www.strategie.gouv.fr/chantiers/limpact-environnemental-numerique)
 - [Etude WeGreenIT : Quelle démarche Green IT pour les grandes entreprises françaises](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf) - PDF des résultats 2018 de l'étude WeGreenIT.
 - [Lean ICT – Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)

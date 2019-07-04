@@ -15,6 +15,7 @@ Certaines ressources sont orientées amélioration des performances et vont dans
 - [Vers des logiciels et des sites plus écologiques et éthiques ?](https://reset.fing.org/vers-des-logiciels-et-des-sites-plus-ecologiques-et-ethiques.html)
 - [Manifeste écologique des professionnels de l’informatique](https://www.climanifeste.net/)
 - [Bringing the Internet offline](http://www.opengenus.org)
+- [Impact du numérique sur l'environnement, faire sa part en tant que développeur](https://docs.google.com/presentation/d/17GYgRY65Avt9cB40wuvn6uq-SKIusQEGm1tTmsJMRtI/edit?usp=sharing)
 
 ### Eco-concevoir
 

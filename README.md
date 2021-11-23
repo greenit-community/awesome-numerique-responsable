@@ -54,3 +54,9 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 ## Articles de presse
 
 - [L'écoconception des services numériques comme filière d'excellence](https://business.lesechos.fr/directions-numeriques/digital/transformation-digitale/0600977911837-l-ecoconception-des-services-numeriques-comme-filiere-d-excellence-328383.php) sur Les Echos
+
+## Articles de blogs
+
+- [7 podcasts sur le numérique responsable à s’empresser d’écouter](https://lebondigital.com/7-podcasts-sur-le-numerique-responsable-a-sempresser-decouter/) par Alizée Colin sur Le bon digital
+- [10 livres sur le numérique responsable](https://label-nr.fr/10-livres-numerique-responsable/) par Emilie sur le blog du label NR
+- [Qu’est-ce que le numérique responsable ?](https://blog.octo.com/definir-numerique-responsable/) par Justine DESHAIS sur OCTO Talks

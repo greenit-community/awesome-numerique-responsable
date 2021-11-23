@@ -4,13 +4,20 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 
 ## Pour les usagers du numérique
 
+- [Se former au numérique responsable en quelques minutes](https://particuliers.ademe.fr/au-bureau/numerique/se-former-au-numerique-responsable-en-quelques-minutes)
+- [Comment faire durer un ordinateur](https://www.francenum.gouv.fr/comprendre-le-numerique/comment-faire-durer-un-ordinateur)
+- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)
 - [Agir pour un numérique responsable](https://www.wwf.fr/projets/numerique-responsable)
 - [Comment réduire mon empreinte numérique à la maison ?](https://www.greenit.fr/2018/09/18/reduire-empreinte-numerique-a-maison/)
 - [Comment réduire l’impact de mes e-mails ?](https://www.greenit.fr/2018/09/11/reduire-limpact-de-e-mails/)
 
-## Pour les développeurs
+## Pour les organisations
 
-Certaines ressources sont orientées amélioration des performances et vont dans le sens de la réduction de l'empreinte écologique d'un site web.
+- [La charte numérique responsable](https://institutnr.org/charte-numerique-responsable)
+- [Le manifeste Planet Tech'Care](https://www.planet-techcare.green/manifeste/)
+- [Obsolescence logicielle et matérielle : recommandations internes aux organisations et propositions aux fournisseurs](https://www.cigref.fr/obsolescence-logicielle-et-materielle-recommandations-et-propositions)
+
+## Pour les développeurs
 
 - [Vers des logiciels et des sites plus écologiques et éthiques ?](https://reset.fing.org/vers-des-logiciels-et-des-sites-plus-ecologiques-et-ethiques.html)
 - [Manifeste écologique des professionnels de l’informatique](https://www.climanifeste.net/)

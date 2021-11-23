@@ -4,51 +4,53 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 
 ## Pour les usagers du numérique
 
-- [Se former au numérique responsable en quelques minutes](https://particuliers.ademe.fr/au-bureau/numerique/se-former-au-numerique-responsable-en-quelques-minutes)
-- [Comment faire durer un ordinateur](https://www.francenum.gouv.fr/comprendre-le-numerique/comment-faire-durer-un-ordinateur)
-- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/)
-- [Agir pour un numérique responsable](https://www.wwf.fr/projets/numerique-responsable)
-- [Comment réduire mon empreinte numérique à la maison ?](https://www.greenit.fr/2018/09/18/reduire-empreinte-numerique-a-maison/)
-- [Comment réduire l’impact de mes e-mails ?](https://www.greenit.fr/2018/09/11/reduire-limpact-de-e-mails/)
+- [Agir pour un numérique responsable](https://www.wwf.fr/projets/numerique-responsable) par le WWF.
+- [« Carbonalyser » : l’extension de navigateur qui révèle combien surfer sur le web coûte au climat](https://theshiftproject.org/carbonalyser-extension-navigateur/) par The Shift Project
+- [Comment faire durer un ordinateur](https://www.francenum.gouv.fr/comprendre-le-numerique/comment-faire-durer-un-ordinateur) par France Num.
+- [Comment réduire mon empreinte numérique à la maison ?](https://www.greenit.fr/2018/09/18/reduire-empreinte-numerique-a-maison/) par GreenIT.fr
+- [Comment réduire l’impact de mes e-mails ?](https://www.greenit.fr/2018/09/11/reduire-limpact-de-e-mails/) par GreenIT.fr
+- [Guide pratique pour des achats numériques responsables](https://ecoresponsable.numerique.gouv.fr/publications/guide-pratique-achats-numeriques-responsables/) par la Mission interministérielle pour réduire les impacts environnementaux du numérique 
+- [Se former au numérique responsable en quelques minutes](https://particuliers.ademe.fr/au-bureau/numerique/se-former-au-numerique-responsable-en-quelques-minutes) par l'ADEME
 
 ## Pour les organisations
 
-- [La charte numérique responsable](https://institutnr.org/charte-numerique-responsable)
+- [La charte numérique responsable](https://institutnr.org/charte-numerique-responsable) par l'Institut Numérique Responsable
+- [Le Collectif conception responsable de service numérique](https://collectif.greenit.fr/ecoconception-web/) par GreenIT.fr
 - [Le manifeste Planet Tech'Care](https://www.planet-techcare.green/manifeste/)
-- [Obsolescence logicielle et matérielle : recommandations internes aux organisations et propositions aux fournisseurs](https://www.cigref.fr/obsolescence-logicielle-et-materielle-recommandations-et-propositions)
+- [Le Référentiel général d'écoconception de services numériques (RGESN)](https://ecoresponsable.numerique.gouv.fr/publications/referentiel-general-ecoconception/) par la Mission interministérielle pour réduire les impacts environnementaux du numérique 
+- [Obsolescence logicielle et matérielle : recommandations internes aux organisations et propositions aux fournisseurs](https://www.cigref.fr/obsolescence-logicielle-et-materielle-recommandations-et-propositions) par le CIGREF
 
 ## Pour les développeurs
 
-- [Vers des logiciels et des sites plus écologiques et éthiques ?](https://reset.fing.org/vers-des-logiciels-et-des-sites-plus-ecologiques-et-ethiques.html)
+- [Impact du numérique sur l'environnement, faire sa part en tant que développeur](https://docs.google.com/presentation/d/17GYgRY65Avt9cB40wuvn6uq-SKIusQEGm1tTmsJMRtI/edit?usp=sharing) par @matGiWeb à l'AFUP
 - [Manifeste écologique des professionnels de l’informatique](https://www.climanifeste.net/)
-- [Bringing the Internet offline](http://www.opengenus.org)
-- [Impact du numérique sur l'environnement, faire sa part en tant que développeur](https://docs.google.com/presentation/d/17GYgRY65Avt9cB40wuvn6uq-SKIusQEGm1tTmsJMRtI/edit?usp=sharing)
+- [Vers des logiciels et des sites plus écologiques et éthiques ?](https://reset.fing.org/vers-des-logiciels-et-des-sites-plus-ecologiques-et-ethiques.html) par la FING
 
 ### Eco-concevoir
 
-- [Eco-conception web : les 115 bonnes pratiques, le livre](https://ecoconceptionweb.com/) - Un livre destiné aux concepteurs et développeurs de sites web.
-- [Eco-conception web : les 115 bonnes pratiques, la checklist](https://collectif.greenit.fr/ecoconception-web/) - La checklist des 115 bonnes pratiques d'éco-conception web.
-- [Webperf](https://checklists.opquast.com/webperf/) - 41 critères pour afficher vos sites encore plus rapidement.
-- [Dossier : les bases de l’écoconception logicielle](https://www.greenit.fr/2014/03/31/dossier-les-bases-de-l-ecoconception-logicielle-eco-conception-logiciel/)
-- [Paris Web - Web responsable : éco-concevons un site ensemble !](https://www.paris-web.fr/2017/ateliers/web-responsable-eco-concevons-un-site-ensemble.php)
+- [Dossier : les bases de l’écoconception logicielle](https://www.greenit.fr/2014/03/31/dossier-les-bases-de-l-ecoconception-logicielle-eco-conception-logiciel/) par GreenIT.fr
+- [Eco-conception web : les 115 bonnes pratiques, la checklist](https://collectif.greenit.fr/ecoconception-web/) - La checklist des 115 bonnes pratiques d'éco-conception web par GreenIT.fr
+- [Eco-conception web : les 115 bonnes pratiques, le livre](https://ecoconceptionweb.com/) - Un livre destiné aux concepteurs et développeurs de sites web
+- [Paris Web - Web responsable : éco-concevons un site ensemble !](https://www.paris-web.fr/2017/ateliers/web-responsable-eco-concevons-un-site-ensemble.php) par Jean-Christophe Saintenoy et Frédéric Bordage à Paris Web
+- [Webperf](https://checklists.opquast.com/webperf/) - 41 critères pour afficher vos sites encore plus rapidement par Opquast
 
 ### Mesurer
 
-- [Ecoindex flashe les sites web éco-conçus](https://www.greenit.fr/2016/11/07/ecoindex-flashe-sites-web-eco-concus/)
-- [Ecoindex](http://www.ecoindex.fr/) - Auditez votre site Internet.
-- [Ecometer](http://ecometer.org) - Analyse your website's ecodesign maturity.
-- [GTmetrix](https://gtmetrix.com/) - Analyze your site’s speed and make it faster.
+- [Ecoindex flashe les sites web éco-conçus](https://www.greenit.fr/2016/11/07/ecoindex-flashe-sites-web-eco-concus/) par GreenIT.fr
+- [Ecoindex](http://www.ecoindex.fr/) - Auditez votre site Internet
+- [Ecometer](http://ecometer.org) - Analyse your website's ecodesign maturity
+- [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages
 
 ## Pour approfondir
 
-- [L'agenda pour un futur numérique et écologique](http://fing.org/IMG/pdf/Agenda-pour-un-futur-numerique-et-ecologique_2019_VF.pdf) - PDF qui  s’appuie  sur  l’ensemble des travaux du programme Tran-sitions engagé depuis 2015.
-- [L'impact environnemental du numérique | France Stratégie](https://www.strategie.gouv.fr/chantiers/limpact-environnemental-numerique)
+- [L'agenda pour un futur numérique et écologique](http://fing.org/IMG/pdf/Agenda-pour-un-futur-numerique-et-ecologique_2019_VF.pdf) - PDF qui  s’appuie  sur  l’ensemble des travaux du programme Tran-sitions engagé depuis 2015 par la FING
+- [Ecoinfo - Pour une informatique éco-responsable](https://ecoinfo.cnrs.fr/) par le CNRS
 - [Etude WeGreenIT : Quelle démarche Green IT pour les grandes entreprises françaises](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf) - PDF des résultats 2018 de l'étude WeGreenIT.
-- [Lean ICT – Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/)
-- [Publication du rapport intermédiaire Lean ICT : Pour une Sobriété Numérique](https://theshiftproject.org/article/lean-ict-pour-une-sobriete-numerique-intermediaire/)
-- [Ecoinfo - Pour une informatique éco-responsable](https://ecoinfo.cnrs.fr/)
-- [La face cachée du numérique](https://www.ademe.fr/face-cachee-numerique) - Guide pratique proposé par l'ADEME.
+- [Guide La face cachée du numérique](https://www.ademe.fr/face-cachee-numerique) - Guide pratique proposé par l'ADEME.
+- [L'impact environnemental du numérique | France Stratégie](https://www.strategie.gouv.fr/chantiers/limpact-environnemental-numerique) par France Stratégie
+- [Lean ICT – Les impacts environnementaux du Numérique](https://theshiftproject.org/lean-ict/) par The Shift Project
+- [Publication du rapport intermédiaire Lean ICT : Pour une Sobriété Numérique](https://theshiftproject.org/article/lean-ict-pour-une-sobriete-numerique-intermediaire/) par The Shift Project
 
 ## Articles de presse
 
-- [L'écoconception des services numériques comme filière d'excellence](https://business.lesechos.fr/directions-numeriques/digital/transformation-digitale/0600977911837-l-ecoconception-des-services-numeriques-comme-filiere-d-excellence-328383.php)
+- [L'écoconception des services numériques comme filière d'excellence](https://business.lesechos.fr/directions-numeriques/digital/transformation-digitale/0600977911837-l-ecoconception-des-services-numeriques-comme-filiere-d-excellence-328383.php) sur Les Echos

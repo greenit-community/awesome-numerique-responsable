@@ -15,6 +15,7 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 ## Pour les organisations
 
 - [La Boite à outils numérique écoresponsable](https://ecoresponsable.numerique.gouv.fr/publications/boite-outils/) par la Mission interministérielle Numérique écoresponsable
+- [La Boîte à Outils Numérique Responsable](https://sustainableit-tools.isit-europe.org/) par l'Institut du Numérique Responsable
 - [Le Guide de bonnes pratiques numérique responsable pour les organisations](https://ecoresponsable.numerique.gouv.fr/publications/bonnes-pratiques/) par la Mission interministérielle Numérique écoresponsable
 - [La charte numérique responsable](https://institutnr.org/charte-numerique-responsable) par l'Institut Numérique Responsable
 - [Le Collectif conception responsable de service numérique](https://collectif.greenit.fr/ecoconception-web/) par GreenIT.fr

@@ -9,6 +9,11 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 - agissez en faveur d'un numérique responsable en réduisant vos achats, adoptant des éco-gestes
 - partagez sur l'écoconception de services numériques
 
+## Pour tous
+
+- [Nos gestes climat](https://nosgestesclimat.fr/) : Connaissez-vous votre empreinte sur le climat ?
+- [Carbon Target](https://carbontarget.earth/) : "mais alors, à quoi pourrait ressembler MA vie dans un monde à 2 tonnes" ?
+
 ## Pour les usagers du numérique
 
 - [Agir pour un numérique responsable](https://www.wwf.fr/projets/numerique-responsable) par le WWF.

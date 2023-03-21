@@ -54,6 +54,7 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 - [Ecoindex flashe les sites web éco-conçus](https://www.greenit.fr/2016/11/07/ecoindex-flashe-sites-web-eco-concus/) par GreenIT.fr
 - [Ecoindex](http://www.ecoindex.fr/) - Auditez votre site Internet
 - [Ecometer](http://ecometer.org) - Analyse your website's ecodesign maturity
+- [Websitecarbon](https://www.websitecarbon.com/) -  Estimate your web page carbon footprint
 * [Kastor.green](https://kastor.green/), outil d'audit d'évaluation de la conformité NR des sites web et applications web proposé par Spécinov, basé sur les recommandations du GR491 de l'INR
 - [Yellow Lab Tools](https://yellowlab.tools/) - Online test to help speeding up heavy web pages
 

@@ -60,6 +60,7 @@ Une liste de ressources awesome pour un numérique responsable 🌱
 
 ## Pour approfondir
 
+- [Évaluation de l'impact environnemental du numérique en France et analyse prospective](https://www.vie-publique.fr/rapport/288565-evaluation-impact-environnemental-du-numerique-et-analyse-prospective) par Vie publique
 - [L'agenda pour un futur numérique et écologique](http://fing.org/IMG/pdf/Agenda-pour-un-futur-numerique-et-ecologique_2019_VF.pdf) - PDF qui  s’appuie  sur  l’ensemble des travaux du programme Tran-sitions engagé depuis 2015 par la FING
 - [Ecoinfo - Pour une informatique éco-responsable](https://ecoinfo.cnrs.fr/) par le CNRS
 - [Etude WeGreenIT : Quelle démarche Green IT pour les grandes entreprises françaises](https://www.wwf.fr/sites/default/files/doc-2018-10/20181003_etude_wegreenit_d%C3%A9marche_green_it_entreprises_francaises_WWF-min.pdf) - PDF des résultats 2018 de l'étude WeGreenIT.
